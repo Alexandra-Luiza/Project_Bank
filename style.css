@@ -1,0 +1,21 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#about {
+  background-color: #ffbb33 !important;
+}
+
+.accordion {
+  --bs-accordion-bg: #ffbb33;
+}
+
+.navbar .container {
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #0000005C !important;
+}
+/* .accordion-item {
+  background-color: #FFC107 !important;
+} */
